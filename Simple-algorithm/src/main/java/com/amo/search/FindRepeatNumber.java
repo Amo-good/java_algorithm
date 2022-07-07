@@ -1,4 +1,4 @@
-package com.amo.solution;
+package com.amo.search;
 
 import java.util.ArrayList;
 import java.util.HashMap;

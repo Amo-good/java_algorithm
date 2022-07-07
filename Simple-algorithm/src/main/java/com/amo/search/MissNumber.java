@@ -1,4 +1,4 @@
-package com.amo.solution;
+package com.amo.search;
 
 /**
  * 一个长度为n-1的递增排序数组中的所有数字都是唯一的，并且每个数字都在范围0～n-1之内。
