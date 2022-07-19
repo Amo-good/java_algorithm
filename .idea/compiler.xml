@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Simple-algorithm" />
         <module name="Middle-algorithm" />
+        <module name="Difficult-algorithm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
