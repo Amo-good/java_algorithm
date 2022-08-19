@@ -37,8 +37,8 @@ public class IntersectionNode {
         ListNode A=headA,B=headB;
         //指针A走完走B，B走完走A，当他们相遇时，结果为null（没有公共节点）或者公共节点
         while(A!=B){
-            A=A.next!=null?A.next:headB;
-            B=B.next!=null?B.next:headA;
+            A=A!=null?A.next:headB;
+            B=B!=null?B.next:headA;
         }
 
         return A;
